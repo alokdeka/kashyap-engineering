@@ -5,6 +5,10 @@
         font-size: 50px;
     }
 
+    #top-nav{
+        display: none;
+    }
+
     #banner {
         height: 100vh;
     }
